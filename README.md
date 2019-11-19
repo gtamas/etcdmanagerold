@@ -10,7 +10,7 @@ This is a free, cross-platform [ETCD](http://www.etcd.io) v3 client and GUI.
  
  ## 1.0 is out now!
  
- Our first production release has just arrived. Head over to the new [releases repo](https://github.com/icellmobilsoft/etcdmanager/releases) and grab it! :)
+ Our first production release has just arrived. Head over to the new [repo](https://github.com/icellmobilsoft/etcdmanager/releases) and grab it! :)
  
 ![Alt text](/screenshots/screen1.png?raw=true "ETCD Manager settings")
 
